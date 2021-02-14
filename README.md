@@ -29,10 +29,10 @@ For the purpose of demontrating all functionalities of RBAC, a customer must reg
 On registration he/she is asigned the role of a customer.<br/>
 To demontrate admin's functionalities, the superuser can create a admin user or can assign the role of admin to an existing user. The login at http://127.0.0.1:8000/ <br/>
 
-Postman collection collection is available at the root folder as carpass.postman_collection.json  
+###### Postman collection collection is available at the root folder as carpass.postman_collection.json  
 
 For APIs visit http://127.0.0.1:8000/swagger/
 
 
 
-NB: Developed using python 3 and django 3.1 <br /> 
+###### NB: Developed using python 3 and django 3.1 <br /> 
