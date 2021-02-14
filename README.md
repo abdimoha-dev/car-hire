@@ -2,13 +2,13 @@
 <br/>
 This is a python/Django project demonstrating Role based Access Control using an example of a car hiring company. It includes CRUD functionalities and REST APIs.
 <br>
-cd requirements <br />
-run: pip3 install -r requirements.txt <br />
+cd requirements  
+run: pip3 install -r requirements.txt  
 <br/>
-run: python3 manage.py makemigrations <br />
-run: python3 manage.py migrate <br />
+run: python3 manage.py makemigrations  
+run: python3 manage.py migrate  
 
-#create superuser<br />
+#create superuser  
 run: python3 manage.py createsuperuser<br />
 
 run: python3 manage.py runserver <br />
