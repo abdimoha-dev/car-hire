@@ -20,6 +20,7 @@ login to the admin panel 'http://127.0.0.1:8000/admin' and create 2 user groups.
 
 Then logout;
 
+
 open http://127.0.0.1:8000/ on your browser
 for demo purposes: customer should 1st create an account.
 
