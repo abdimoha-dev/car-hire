@@ -2,6 +2,7 @@ This is a python/Django project demonstrating Role based Access Control. It incl
 <br>
 cd requirements <br />
 run: pip3 install -r requirements.txt <br />
+<br/>
 run: python3 manage.py makemigrations <br />
 run: python3 manage.py migrate <br />
 run: python3 manage.py runserver <br />
