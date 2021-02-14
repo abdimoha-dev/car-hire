@@ -35,4 +35,4 @@ For APIs visit http://127.0.0.1:8000/swagger/
 
 
 
-## NB: Developed using python 3 and django 3.1 <br /> 
+### NB: Developed using python 3 and django 3.1 <br /> 
