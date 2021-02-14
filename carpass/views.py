@@ -163,11 +163,6 @@ def logout_user(request):
     logout(request)
     return HttpResponsePermanentRedirect('login')
 
-@login_required(login_url='login')
-def customer_index_page(request):
-    cars = Car.objects.all().filter(booked=False)
-    context = {'cars':cars}
-    return render(request, 'index.html', context)
 
 @login_required(login_url='login')
 def book_car(request, carid):
