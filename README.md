@@ -1,6 +1,6 @@
 # About 
 <br/>
-This is a python/Django project demonstrating Role based Access Control using an example of a car hiring company. It includes CRUD functionalities and REST APIs.<br/>  
+This is a python/Django project demonstrating Role based Access Control using an example of a car hiring company. It includes CRUD functionalities and REST APIs.    
 ### Instrallation & setup
 cd requirements  
 run: pip3 install -r requirements.txt  
@@ -15,8 +15,8 @@ run: python3 manage.py runserver <br />
 
 <br>
 login to the admin panel 'http://127.0.0.1:8000/admin' and create 2 user groups.<br />
-1. customer<br />
-2. admin<br />
+- customer<br />
+- admin<br />
 
 Then logout;
 
