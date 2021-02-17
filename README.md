@@ -17,7 +17,8 @@ run: python3 manage.py runserver
 
 login to the admin panel 'http://127.0.0.1:8000/admin' and create 2 user groups.  
 - customer  
-- admin  
+- admin 
+ 
 
 Then logout;
 
