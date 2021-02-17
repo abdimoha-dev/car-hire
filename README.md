@@ -37,3 +37,4 @@ On registration he/she is asigned the role of a customer.<br/>
 
 
 ### NB: Developed using python 3 and django 3.1
+
